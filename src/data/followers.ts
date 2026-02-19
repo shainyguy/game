@@ -17,73 +17,73 @@ export const FOLLOWERS: Follower[] = [
     id: "2",
     username: "astrey.store",
     joinedAt: "2024-01-02T11:00:00Z",
-    avatar: ""
+    avatar: "photo/2.jpg"
   },
   {
     id: "3",
     username: "y_biryukova00",
     joinedAt: "2024-01-03T12:00:00Z",
-    avatar: ""
+    avatar: "photo/3.jpg"
   },
   {
     id: "4",
     username: "alenchik_sergeevna_",
     joinedAt: "2024-01-04T13:00:00Z",
-    avatar: ""
+    avatar: "photo/4.jpg"
   },
   {
     id: "5",
     username: "yulya485",
     joinedAt: "2024-01-05T14:00:00Z",
-    avatar: ""
+    avatar: "photo/5.jpg"
   },
   {
     id: "6",
     username: "odnodvorccev",
     joinedAt: "2024-01-06T15:00:00Z",
-    avatar: ""
+    avatar: "photo/6.jpg"
   },
   {
     id: "7",
     username: "yazykovamary",
     joinedAt: "2024-01-07T16:00:00Z",
-    avatar: ""
+    avatar: "photo/7.jpg"
   },
   {
     id: "8",
     username: "elena.48rus_",
     joinedAt: "2024-01-08T17:00:00Z",
-    avatar: ""
+    avatar: "photo/8.jpg"
   },
   {
     id: "9",
     username: "80l90v",
     joinedAt: "2024-01-09T18:00:00Z",
-    avatar: ""
+    avatar: "photo/9.jpg"
   },
   {
     id: "10",
     username: "lunataro.bot",
     joinedAt: "2024-01-10T19:00:00Z",
-    avatar: ""
+    avatar: "photo/10.jpg"
   },
   {
     id: "11",
     username: "lashdiva_nz",
     joinedAt: "2024-01-11T20:00:00Z",
-    avatar: ""
+    avatar: "photo/11.jpg"
   },
   {
     id: "12",
     username: "_d.evgeniya_",
     joinedAt: "2024-01-12T21:00:00Z",
-    avatar: ""
+    avatar: "photo/12.jpg"
   },
   {
     id: "13",
     username: "mk.tarot_",
     joinedAt: "2024-01-13T22:00:00Z",
-    avatar: ""
+    avatar: "photo/13.jpg"
   }
 ];
 
