@@ -84,6 +84,24 @@ export const FOLLOWERS: Follower[] = [
     username: "mk.tarot_",
     joinedAt: "2024-01-13T22:00:00Z",
     avatar: "photo/13.jpg"
+  },
+   {
+    id: "14",
+    username: "sun_beeeeeam231",
+    joinedAt: "2026-02-25T22:00:00Z",
+    avatar: "photo/14.jpg"
+  },
+   {
+    id: "15",
+    username: "ai_aksenova",
+    joinedAt: "2026-02-25T22:00:00Z",
+    avatar: "photo/15.jpg"
+  },
+   {
+    id: "16",
+    username: "zhrlv.a",
+    joinedAt: "2026-02-25T22:00:00Z",
+    avatar: "photo/16.jpg"
   }
 ];
 
